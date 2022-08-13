@@ -1,0 +1,25 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "config": "^3.3.7",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "got": "^12.2.0",
+    "mongoose": "^6.4.6",
+    "sitemap": "^7.1.1",
+    "stream": "^0.0.2",
+    "stream-json": "^1.7.4",
+    "through2-map": "^3.0.0",
+    "zlib": "^1.0.5"
+  }
+}
